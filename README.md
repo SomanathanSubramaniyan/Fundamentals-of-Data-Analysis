@@ -1,9 +1,9 @@
-# Fundamentals-of-data-analysis
+# Fundamentals of data analysis - Assignment
 
-This GITHUB repository contains assigment answers for 'Fundamentals of Data Analysis' module. The answers are in the Jupyter note, 
-Assignment-2018-Anscombe.ipynb and checked into this repository.
+This GITHUB repository contain assigment answers for 'Fundamentals of Data Analysis' module. The answers are in the Jupyter note, 
+Assignment-2018-Anscombe.ipynb which is added to this repository.
 
-Prerequisite softwares to open and the run the ipynb file, are listed below
+Prerequisite softwares to open and run the "ipynb" file are listed below
 
 - Anaconda 5.3 For Windows
 - python 3.7 version
@@ -13,10 +13,10 @@ Steps to run the Assignment-2018-Anscombe.ipynb in laptop/desktop, are listed be
 
 - Copy "Assignment-2018-Numpy.ipynb" into a local folder
 - Open CMder or Command prompt
-- Change the current directory in the command prompt to the directory/folder where the "Assignment-2018-Anscombe.ipynb" was copied
-- Type in Jupyter notebook
-- The Juypter notebook will display the directory/folder where the "Assignment-2018-Anscombe.ipynb" was copied
-- Click on the the "Assignment-2018-Anscombe" file
+- Change the current directory in the command prompt to the folder where the "Assignment-2018-Anscombe.ipynb" was copied
+- Type in "Jupyter notebook"
+- The folder where the "Assignment-2018-Anscombe.ipynb" was copied, will be displayed in a browser
+- Click on the the "Assignment-2018-Anscombe" file 
 
 ## References
 - https://pandas.pydata.org/
