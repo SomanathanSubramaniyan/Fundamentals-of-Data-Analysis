@@ -16,7 +16,7 @@ Steps to run the Assignment-2018-Anscombe.ipynb in laptop/desktop, are listed be
 - Change the current directory in the command prompt to the folder where the "Assignment-2018-Anscombe.ipynb" was copied
 - Type in "Jupyter notebook"
 - The folder where the "Assignment-2018-Anscombe.ipynb" was copied, will be displayed in a browser
-- Click on the the "Assignment-2018-Anscombe" file 
+- Click on the the "Assignment-2018-Anscombe" file to open and run the notebook
 
 ## References
 - https://pandas.pydata.org/
