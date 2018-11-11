@@ -21,4 +21,4 @@ Steps to run the Assignment-2018-Anscombe.ipynb in laptop/desktop, are listed be
 ## References
 - https://pandas.pydata.org/
 - http://data.princeton.edu/wws509/stata/anscombe.html
-
+- https://www.ritchieng.com/machine-learning-evaluate-linear-regression-model/
